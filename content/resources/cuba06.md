@@ -5,6 +5,8 @@ description: A typical street in the area. All images are courtesy of Prof. Jan 
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/2ff42fe82583793608b6b1c8ee91d74d_cuba06.jpg
 file_size: 47117
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: A typical street in the area.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.

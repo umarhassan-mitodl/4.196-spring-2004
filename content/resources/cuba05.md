@@ -5,6 +5,8 @@ description: More rooftops, viewed from the highest building on the site. All im
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/772794830de09f12a198908c07023290_cuba05.jpg
 file_size: 78876
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: More rooftops, viewed from the highest building on the site.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.

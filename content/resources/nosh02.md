@@ -4,6 +4,8 @@ description: Sketch model by Nicole Vlado. Image courtesy of OCW.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/a07991c0a59bc8666fcc94c0d46d1f3d_nosh02.jpg
 file_size: 43282
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Sketch model by Nicole Vlado.
   credit: Image courtesy of OCW.

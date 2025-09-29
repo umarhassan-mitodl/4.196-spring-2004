@@ -4,6 +4,8 @@ description: Instructions and guidelines for group assignment.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ed8f565ee0ac362d58546d0409de5f23_assn3.pdf
 file_size: 7746
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

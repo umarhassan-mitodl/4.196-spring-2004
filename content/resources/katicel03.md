@@ -4,6 +4,8 @@ description: Elevation montage by Katice Helinski. Image courtesy of OCW.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/159a955abd67e908a683b64f2323ac56_katicel03.jpg
 file_size: 47279
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Elevation montage by Katice Helinski.
   credit: Image courtesy of OCW.
