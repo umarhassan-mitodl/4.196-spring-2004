@@ -4,8 +4,6 @@ description: Final model by Elliot Felix. Image courtesy of OCW.
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/afbce71e6d27ea7e8d00371471877034_edf06.jpg
 file_size: 32191
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Final model by Elliot Felix.
   credit: Image courtesy of OCW.

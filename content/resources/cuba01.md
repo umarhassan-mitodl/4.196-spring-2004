@@ -5,8 +5,6 @@ description: 'Site along the Malecon. All images are courtesy of Prof. Jan Wampl
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/4da71e5de1aead2174e1a451f362ffb0_cuba01.jpg
 file_size: 44634
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Site along the Malecon.
   credit: Image courtesy of Prof. Jan Wampler and used with permission.

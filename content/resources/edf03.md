@@ -4,8 +4,6 @@ description: 'Elevation montage by Elliot Felix. Image courtesy of OCW. '
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/06f31e50f7fc988b362934066b5fe662_edf03.jpg
 file_size: 42105
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Elevation montage by Elliot Felix.
   credit: Image courtesy of OCW.

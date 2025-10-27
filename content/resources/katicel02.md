@@ -4,8 +4,6 @@ description: Concept form (Junk) model by Katice Helinski. Image courtesy of OCW
 file: /courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/ba329272cb917f6c5039686b41061eed_katicel02.jpg
 file_size: 36718
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Concept form (Junk) model by Katice Helinski.
   credit: Image courtesy of OCW.
